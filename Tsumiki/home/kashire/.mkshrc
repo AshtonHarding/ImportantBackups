@@ -1,0 +1,11 @@
+EDITOR="/usr/bin/vim"
+
+export GTK_IM_MODULE=fcitx
+export QT_IM_MODULE=fcitx
+export XMODIFIERS=@im=fcitx
+export XMODIFIER=@im=fcitx
+export DefaultIMModule=fcitx
+
+## fix crappy i/o for mumble.
+alias mumble="PULSE_LATENCY_MSEC=90 mumble"
+

@@ -1,0 +1,1 @@
+app-editors/emacs  acl alsa dbus gif gpm gtk inotify jpeg lcms png ssl svg threads tiff xft xpm zlib -X -Xaw3d -aqua -athena -cairo -dynamic-loading -games -gconf -gfile -gsettings -gtk2 -gzip-el -imagemagick -kerberos -libxml2 -livecd -m17n-lib -mailutils -motif -selinux -sound -source -systemd -toolkit-scroll-bars -wide-int -xwidgets

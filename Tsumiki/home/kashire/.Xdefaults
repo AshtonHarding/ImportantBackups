@@ -1,0 +1,60 @@
+! terminal colors ------------------------------ 
+
+URxvt*scrollBar: false
+
+URxvt*font: xft:tewi-medium:size=9
+
+URxvt*background: #1D2426
+URxvt*foreground: #8FA388
+
+URxvt*cursorColor: #BE5E1E
+
+!! Black [dark, light]
+URxvt*color0:  #2d3233
+! #39474A
+URxvt*color8:  #44494a
+! #4C5F63
+!! Red [dark, light]
+URxvt*color1:  #984551
+!#986345
+URxvt*color9:  #a25762
+!#B07350
+!! Green [dark, light]
+URxvt*color2:  #788249
+URxvt*color10: #869151
+!! Yellow [dark, light]
+URxvt*color3:  #9b9546
+! #9B6A46
+URxvt*color11: #a59f58
+!#AF6B42
+!! Blue [dark, light]
+URxvt*color4:  #373f50
+!3E5951
+URxvt*color12: #515969
+!567A6E
+!! Magenta [dark, light]
+URxvt*color5:  #b3a2bd
+! #B9924A
+URxvt*color13: #baabc3
+! #D69D55
+!! Cyan [dark,light]
+URxvt*color6: #a3cccc
+! #5d796a
+URxvt*color14: #acd1d1
+! #668574
+!! White [dark, light]
+URxvt*color7:  #6d6c6b
+!dbd9d6
+! #977D5E
+URxvt*color15: #dedcda
+! #AB9C71
+
+URxvt.transparent:   true
+URxvt.shading:       20
+
+Xcursor.theme: Adwaita
+Xcursor.size: 16
+
+xterm*background: black
+xterm*foreground: white
+
